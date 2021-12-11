@@ -1,11 +1,11 @@
 <resources>
     <string name="app_name">Cinema Online</string>
-    <string name="movie_poster">Poster</string>
-    <string name="watch_movie_button">Watch movie</string>
-    <string name="notification_channel_id">Video</string>
-    <string name="notification_channel_name">Demo</string>
-    <string name="notification_channel_description">Demo video</string>
-    <string name="about_movie">About movie</string>
-    <string name="error_text">Ooops! Something went wrong!</string>
-    <string name="retry_text">Try again</string>
+    <string name="movie_poster">Постер</string>
+    <string name="watch_movie_button">Просмотр фильма</string>
+    <string name="notification_channel_id">Видео</string>
+    <string name="notification_channel_name">Демо</string>
+    <string name="notification_channel_description">Демонстрационное видео</string>
+    <string name="about_movie">Подробнее о фильме</string>
+    <string name="error_text">Упс.. Что-то пошло не так</string>
+    <string name="retry_text">Попробуйте снова</string>
 </resources>
