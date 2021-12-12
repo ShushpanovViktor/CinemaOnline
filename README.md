@@ -1,5 +1,5 @@
-# CiOn
-CiOn (means - Cinema Online) is an application that makes watching movies on Android easier. <br>
+# CinemaOnline
+Cinema Online is an application that makes watching movies on Android easier. <br>
 CiOn supports two themes - Light and Dark. You can toggle it in your smartphone settings. <br>
 
 **Languages and tools used in this project:**
